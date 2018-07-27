@@ -1,0 +1,18 @@
+{
+  "name": "oshchyp/yii2-module-admin",
+  "type": "yii2-expansion",
+  "description": "yii2-expansion",
+  "authors": [
+    {
+      "name": "Oshchyp Denys",
+      "email": "oshchyp.denys@gmail.com"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "oshchyp\\yii2Expansion\\": "oshchyp/yii2-expansion"
+    }
+  },
+  "version": "dev-master"
+}
